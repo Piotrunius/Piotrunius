@@ -14,6 +14,7 @@
 - Passionate about building tools that solve problems
 - I mostly do things for fun, dont expect too much :P
 - Most of my projects are open source, but i have few private ones
+- Check out more on my [bio][https://piotrunius.github.io/]
 
 <br clear="right"/>
 
