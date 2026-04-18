@@ -9,11 +9,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piotrunius&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" width="300"/>
 
-- 🇵🇱 Im from **Poland**
-- 🌱 Deepening knowledge in **TypeScript**
-- 💡 Passionate about building tools that solve problems
--       I mostly do things for fun, dont expect too much :P
--       Most of my projects are open source, but i have few private ones
+- Im from **Poland**
+- Deepening knowledge in **TypeScript**
+- Passionate about building tools that solve problems
+- I mostly do things for fun, dont expect too much :P
+- Most of my projects are open source, but i have few private ones
 
 <br clear="right"/>
 
@@ -60,14 +60,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Piotrunius&style=flat-square&color=ffffff&labelColor=0d1117&label=Profile+Views)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/Piotrunius?style=flat-square&color=ffffff&labelColor=0d1117&label=Followers)
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=120&section=footer" width="100%"/>
