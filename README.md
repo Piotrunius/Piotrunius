@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=200&section=header&text=Piotrunius&fontSize=60&fontColor=00fd8a&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Poland%20%F0%9F%87%B5%F0%9F%87%B1&descSize=18&descAlignY=58&descAlign=50&descColor=00fd8a" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=200&section=header&text=Piotrunius&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Poland%20%F0%9F%87%B5%F0%9F%87%B1&descSize=18&descAlignY=58&descAlign=50&descColor=ffffff" width="100%"/>
 </div>
 <br/>
 
@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piotrunius&layout=compact&theme=github_dark&hide_border=true&title_color=00fd8a&text_color=00fd8a&bg_color=0d1117&langs_count=6" alt="Top Languages" width="300"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piotrunius&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" width="300"/>
 
 - 🇵🇱 Im from **Poland**
 - 🌱 Deepening knowledge in **TypeScript**
@@ -53,9 +53,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Piotrunius&show_icons=true&theme=github_dark&hide_border=true&title_color=00fd8a&text_color=00fd8a&icon_color=00fd8a&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Piotrunius&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Piotrunius&theme=github-dark-blue&hide_border=true&stroke=00fd8a&ring=00fd8a&fire=00fd8a&currStreakNum=00fd8a&currStreakLabel=00fd8a&sideNums=00fd8a&sideLabels=00fd8a&dates=00fd8a&background=0D1117" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Piotrunius&theme=github-dark-blue&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0D1117" alt="GitHub Streak" height="165"/>
 
 </div>
 
@@ -63,9 +63,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Piotrunius&style=flat-square&color=00fd8a&labelColor=0d1117&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Piotrunius&style=flat-square&color=ffffff&labelColor=0d1117&label=Profile+Views)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/Piotrunius?style=flat-square&color=00fd8a&labelColor=0d1117&label=Followers)
+![GitHub followers](https://img.shields.io/github/followers/Piotrunius?style=flat-square&color=ffffff&labelColor=0d1117&label=Followers)
 
 </div>
 
