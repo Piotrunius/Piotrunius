@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=200&section=header&text=Piotrunius&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Poland%20%F0%9F%87%B5%F0%9F%87%B1&descSize=18&descAlignY=58&descAlign=50&descColor=8b949e" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=200&section=header&text=Piotrunius&fontSize=60&fontColor=00fd8a&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Poland%20%F0%9F%87%B5%F0%9F%87%B1&descSize=18&descAlignY=58&descAlign=50&descColor=00fd8a" width="100%"/>
 </div>
 <br/>
 
@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piotrunius&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Top Languages" width="300"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piotrunius&layout=compact&theme=github_dark&hide_border=true&title_color=00fd8a&text_color=00fd8a&bg_color=0d1117&langs_count=6" alt="Top Languages" width="300"/>
 
 - 🇵🇱 Im from **Poland**
 - 🌱 Deepening knowledge in **TypeScript**
@@ -19,18 +19,18 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages, Platforms and Tools
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Tools & Platforms**
+**Platforms**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -39,7 +39,9 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+**Tools**
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -51,9 +53,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Piotrunius&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Piotrunius&show_icons=true&theme=github_dark&hide_border=true&title_color=00fd8a&text_color=00fd8a&icon_color=00fd8a&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Piotrunius&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&background=0D1117" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Piotrunius&theme=github-dark-blue&hide_border=true&stroke=00fd8a&ring=00fd8a&fire=00fd8a&currStreakNum=00fd8a&currStreakLabel=00fd8a&sideNums=00fd8a&sideLabels=00fd8a&dates=00fd8a&background=0D1117" alt="GitHub Streak" height="165"/>
 
 </div>
 
@@ -61,9 +63,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Piotrunius&style=flat-square&color=58a6ff&labelColor=0d1117&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Piotrunius&style=flat-square&color=00fd8a&labelColor=0d1117&label=Profile+Views)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/Piotrunius?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers)
+![GitHub followers](https://img.shields.io/github/followers/Piotrunius?style=flat-square&color=00fd8a&labelColor=0d1117&label=Followers)
 
 </div>
 
