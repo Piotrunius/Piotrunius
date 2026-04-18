@@ -10,9 +10,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piotrunius&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" width="300"/>
 
 - Im from **Poland**
-- Deepening knowledge in **TypeScript**
+- Currently learning **TypeScript**
 - Passionate about building tools that solve problems
 - I mostly do things for fun, dont expect too much :P
+- Making **websites** is what i mostly do
 - Most of my projects are open source, but i have few private ones
 - Check out more on my [bio](https://piotrunius.github.io/)
 
