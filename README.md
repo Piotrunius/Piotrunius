@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Piotrunius&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Piotrunius&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Piotrunius&theme=github-dark-blue&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0D1117" alt="GitHub Streak" height="165"/>
 
