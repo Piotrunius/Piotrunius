@@ -15,7 +15,7 @@
 - I mostly do things for fun, dont expect too much :P
 - Making **websites** is what i mostly do
 - Most of my projects are open source, but i have few private ones
-- Check out my full portfolio on [My Bio](https://piotrunius.github.io/)
+- Check out my full portfolio on [My Bio](https://piotrunius.dev)
 
 <br clear="right"/>
 
