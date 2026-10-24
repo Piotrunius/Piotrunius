@@ -1,0 +1,209 @@
+{
+  "version": 1,
+  "login": "Piotrunius",
+  "seed": "#6C54AA",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "buttons",
+    "socials",
+    "about",
+    "wave",
+    "stack",
+    "projects",
+    "stats",
+    "streak"
+  ],
+  "hidden": [
+    "socials"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Piotrunius",
+    "subtitle": "A Developer & tech enthusiast",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": []
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "flag",
+        "label": "Im from Poland"
+      },
+      {
+        "icon": "code",
+        "label": "Making websites is what i mostly do"
+      },
+      {
+        "icon": "person",
+        "label": "I mostly do things for fun, dont expect too much :P"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Languages",
+        "items": [
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:github",
+            "label": "Github"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:zedindustries",
+            "label": "Zed"
+          },
+          {
+            "icon": "brand:nobaralinux",
+            "label": "Nobara"
+          },
+          {
+            "icon": "brand:prettier",
+            "label": "Prettier"
+          },
+          {
+            "icon": "brand:ruff",
+            "label": "Ruff"
+          },
+          {
+            "icon": "brand:eslint",
+            "label": "ESlint"
+          }
+        ]
+      },
+      {
+        "title": "Platforms",
+        "items": [
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:express",
+            "label": "Express.js"
+          },
+          {
+            "icon": "brand:tailwindcss",
+            "label": "Tailwind CSS"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "NexVid",
+      "SystemUpdater",
+      "Biography",
+      "Broadcast-generator"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "link_2",
+        "url": "https://piotrunius.dev"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "link_2",
+        "label": "My website",
+        "url": "https://piotrunius.dev/",
+        "style": "tonal"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": true
+  }
+}
