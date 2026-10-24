@@ -1,75 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=200&section=header&text=Piotrunius&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cool%20Guy%20doing%20Cool%20Things&descSize=18&descAlignY=58&descAlign=50&descColor=ffffff" width="100%"/>
-</div>
-<br/>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Piotrunius"></picture>
 
-## About Me
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-l-dark.svg"><img src="assets/button-l-light.svg" width="25.821%" alt=""></picture><a href="https://piotrunius.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="22.417%" alt="My website"></picture></a><a href="https://github.com/Piotrunius?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="25.939%" alt="All repositories"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-r-dark.svg"><img src="assets/button-r-light.svg" width="25.821%" alt=""></picture>
 
-<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Piotrunius&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" width="300"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-- Im from **Poland**
-- Currently learning **TypeScript**
-- Passionate about building tools that solve problems
-- I mostly do things for fun, dont expect too much :P
-- Making **websites** is what i mostly do
-- Most of my projects are open source, but i have few private ones
-- Check out my full portfolio on [My Bio](https://piotrunius.github.io/)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-<br clear="right"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
----
+<a href="https://github.com/Piotrunius/NexVid"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nexvid-dark.svg"><img src="assets/project-nexvid-light.svg" width="49%" alt="NexVid"></picture></a>&nbsp;<a href="https://github.com/Piotrunius/SystemUpdater"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-systemupdater-dark.svg"><img src="assets/project-systemupdater-light.svg" width="49%" alt="SystemUpdater"></picture></a>
 
-## Languages, Platforms and Tools
+<a href="https://github.com/Piotrunius/Biography"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-biography-dark.svg"><img src="assets/project-biography-light.svg" width="49%" alt="Biography"></picture></a>&nbsp;<a href="https://github.com/Piotrunius/Broadcast-generator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-broadcast-generator-dark.svg"><img src="assets/project-broadcast-generator-light.svg" width="49%" alt="Broadcast-generator"></picture></a>
 
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-**Languages**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
-**Platforms**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=Piotrunius&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Piotrunius&theme=github-dark-blue&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0D1117" alt="GitHub Streak" height="165"/>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
