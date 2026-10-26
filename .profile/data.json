@@ -1,9 +1,9 @@
 {
- "key": "253a4eff",
- "stars": 5,
+ "key": "9f1c050",
+ "stars": 4,
  "contributions": 1629,
  "repos": 9,
- "followers": 10,
+ "followers": 9,
  "languages": [
   [
    "TypeScript",
@@ -109,9 +109,13 @@
    {
     "c": 0,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -120,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 22
  },
  "pins": [
@@ -149,7 +153,7 @@
    "url": "https://github.com/Piotrunius/NexVid",
    "text": "Stream movies and TV shows in a fast, modern hub.",
    "fork": false,
-   "stars": 4,
+   "stars": 3,
    "language": "TypeScript",
    "topics": [
     "febbox",
@@ -200,7 +204,7 @@
    "url": "https://github.com/Piotrunius/NexVid",
    "text": "Stream movies and TV shows in a fast, modern hub.",
    "fork": false,
-   "stars": 4,
+   "stars": 3,
    "language": "TypeScript",
    "topics": [
     "febbox",
