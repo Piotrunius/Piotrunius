@@ -1,6 +1,6 @@
 {
- "key": "1a2e784c",
- "stars": 6,
+ "key": "62a4163a",
+ "stars": 11,
  "contributions": 1686,
  "repos": 9,
  "followers": 9,
@@ -145,7 +145,7 @@
    "url": "https://github.com/Piotrunius/SystemUpdater",
    "text": "Modern, modular Linux / macOS system updater",
    "fork": false,
-   "stars": 2,
+   "stars": 7,
    "language": "Python",
    "topics": [
     "automation",
@@ -212,6 +212,26 @@
  ],
  "all": [
   {
+   "name": "SystemUpdater",
+   "url": "https://github.com/Piotrunius/SystemUpdater",
+   "text": "Modern, modular Linux / macOS system updater",
+   "fork": false,
+   "stars": 7,
+   "language": "Python",
+   "topics": [
+    "automation",
+    "homebrew",
+    "linux",
+    "macos",
+    "updater",
+    "btrfs",
+    "cli",
+    "dotfiles",
+    "package-manager",
+    "python"
+   ]
+  },
+  {
    "name": "NexVid",
    "url": "https://github.com/Piotrunius/NexVid",
    "text": "Stream movies and TV shows in a fast, modern hub.",
@@ -229,26 +249,6 @@
     "cloudflare-d1",
     "cloudflare-pages",
     "cloudflare-worker"
-   ]
-  },
-  {
-   "name": "SystemUpdater",
-   "url": "https://github.com/Piotrunius/SystemUpdater",
-   "text": "Modern, modular Linux / macOS system updater",
-   "fork": false,
-   "stars": 2,
-   "language": "Python",
-   "topics": [
-    "automation",
-    "homebrew",
-    "linux",
-    "macos",
-    "updater",
-    "btrfs",
-    "cli",
-    "dotfiles",
-    "package-manager",
-    "python"
    ]
   },
   {
