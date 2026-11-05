@@ -72,6 +72,10 @@
             "label": "Python"
           },
           {
+            "icon": "brand:luau",
+            "label": "Luau"
+          },
+          {
             "icon": "brand:cplusplus",
             "label": "C++"
           }
