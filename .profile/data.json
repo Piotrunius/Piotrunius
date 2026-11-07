@@ -1,5 +1,5 @@
 {
- "key": "fdf603ba",
+ "key": "f0009d76",
  "stars": 12,
  "contributions": 1686,
  "repos": 9,
@@ -134,13 +134,17 @@
    {
     "c": 0,
     "day": 6,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 7,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 5,
+  "current": 0,
   "longest": 22
  },
  "pins": [
