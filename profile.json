@@ -32,16 +32,20 @@
     "title": "About me",
     "items": [
       {
-        "icon": "flag",
-        "label": "Im from Poland"
-      },
-      {
-        "icon": "code",
-        "label": "Making websites is what i mostly do"
-      },
-      {
         "icon": "person",
-        "label": "I mostly do things for fun, dont expect too much :P"
+        "label": "Hey, I'm from Poland. I mostly make websites and useful open-source tools."
+      },
+      {
+        "icon": "favorite",
+        "label": "I do things mainly for fun, so don't expect too much :P"
+      },
+      {
+        "icon": "desktop_windows",
+        "label": "I like tweaking my Linux setup, gaming, and watching movies, TV, or anime."
+      },
+      {
+        "icon": "coffee",
+        "label": "Just keeping things chill, avoiding stress, and enjoying life :D"
       }
     ]
   },
@@ -51,6 +55,10 @@
       {
         "title": "Languages",
         "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
           {
             "icon": "brand:html5",
             "label": "HTML"
@@ -68,16 +76,8 @@
             "label": "TypeScript"
           },
           {
-            "icon": "brand:python",
-            "label": "Python"
-          },
-          {
             "icon": "brand:luau",
             "label": "Luau"
-          },
-          {
-            "icon": "brand:cplusplus",
-            "label": "C++"
           }
         ]
       },
@@ -146,14 +146,16 @@
     ]
   },
   "projects": {
-    "source": "manual",
+    "source": "pinned",
     "repos": [
-      "NexVid",
       "SystemUpdater",
+      "NexVid",
       "Biography",
       "Broadcast-generator"
     ],
-    "overrides": {},
+    "overrides": {
+      "NexVid": {}
+    },
     "empty": "No description yet.",
     "fork": "Fork"
   },
@@ -196,7 +198,7 @@
   "buttons": {
     "items": [
       {
-        "icon": "link_2",
+        "icon": "cloud",
         "label": "My website",
         "url": "https://piotrunius.dev/",
         "style": "tonal"
@@ -205,6 +207,12 @@
         "icon": "book_2",
         "label": "All repositories",
         "url": "",
+        "style": "tonal"
+      },
+      {
+        "icon": "mail",
+        "label": "Email me",
+        "url": "mailto:contact@piotrunius.dev",
         "style": "tonal"
       }
     ],
