@@ -26,7 +26,20 @@
     "subtitle": "A Developer & tech enthusiast",
     "typing": true,
     "avatarShape": "cookie12",
-    "chips": []
+    "chips": [
+      {
+        "icon": "widgets",
+        "label": "Hobbyist"
+      },
+      {
+        "icon": "school",
+        "label": "Self Thought"
+      },
+      {
+        "icon": "folder_open",
+        "label": "MIT Only"
+      }
+    ]
   },
   "about": {
     "title": "About me",
@@ -146,7 +159,7 @@
     ]
   },
   "projects": {
-    "source": "pinned",
+    "source": "manual",
     "repos": [
       "SystemUpdater",
       "NexVid",
@@ -154,7 +167,18 @@
       "Broadcast-generator"
     ],
     "overrides": {
-      "NexVid": {}
+      "NexVid": {
+        "icon": "smart_display"
+      },
+      "SystemUpdater": {
+        "icon": "download_2"
+      },
+      "Biography": {
+        "icon": "person_book"
+      },
+      "Broadcast-generator": {
+        "icon": "campaign"
+      }
     },
     "empty": "No description yet.",
     "fork": "Fork"
@@ -162,7 +186,7 @@
   "stats": {
     "title": "GitHub activity",
     "stars": "Stars earned",
-    "contributions": "Contributions this year",
+    "contributions": "Commits this year",
     "repos": "Public repos",
     "followers": "Followers",
     "calendar": "Last 21 days",
