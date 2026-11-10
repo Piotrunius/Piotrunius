@@ -1,6 +1,6 @@
 {
- "key": "1180a00f",
- "stars": 14,
+ "key": "ab1f4570",
+ "stars": 15,
  "contributions": 1709,
  "repos": 9,
  "followers": 9,
@@ -137,7 +137,7 @@
    "url": "https://github.com/Piotrunius/SystemUpdater",
    "text": "Modern, modular Linux / macOS system updater",
    "fork": false,
-   "stars": 10,
+   "stars": 11,
    "language": "Python",
    "topics": [
     "automation",
@@ -208,7 +208,7 @@
    "url": "https://github.com/Piotrunius/SystemUpdater",
    "text": "Modern, modular Linux / macOS system updater",
    "fork": false,
-   "stars": 10,
+   "stars": 11,
    "language": "Python",
    "topics": [
     "automation",
